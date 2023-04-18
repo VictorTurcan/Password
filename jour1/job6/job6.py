@@ -1,0 +1,1 @@
+ma_string= print("Je suis un string")
